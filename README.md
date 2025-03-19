@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on a powershell project to automate AD account maintenance and log the changes in a Sharepoint list
+- 🌱 I’m currently learning Microsoft Graph for Sharepoint using Powershell.
 <!--
 **belchershane/belchershane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
